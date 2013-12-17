@@ -6,6 +6,6 @@
     "polymer-elements": "Polymer/polymer-elements#master",
     "polymer-ui-elements": "Polymer/polymer-ui-elements#master",
     "more-elements": "Polymer/more-elements#master",
-    "polymer-ui-base-css": "Polymer/polymer-ui-base-css#master"
+    "polymer-ui-base": "Polymer/polymer-ui-base#master"
   }
 }
